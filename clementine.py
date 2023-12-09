@@ -8,7 +8,7 @@ import os
 init(autoreset=True)
 
 '''logger function'''
-def logger(function):
+def clementine(function):
 
     log_directory = os.path.dirname(inspect.getfile(function))
     log_file_path = os.path.join(log_directory, "main.log")
