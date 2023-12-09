@@ -8,5 +8,5 @@ how to use:
 
 a terminal output could look like this:
 
-  [09.12.23 23:45:23][clementine.py] myFunction1(Argument1=Apfel:str, Argument2=banane:str)
-  [09.12.23 23:45:23][clementine.py] myFunction1 -> Apfel
+[09.12.23 23:45:23][clementine.py] myFunction1(Argument1=Apfel:str, Argument2=banane:str)\
+[09.12.23 23:45:23][clementine.py] myFunction1 -> Apfel
