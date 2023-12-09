@@ -3,8 +3,9 @@ A lightweight decorator for logging and tracking the usuage of python functions
 
 how to use:
 
-1) simply add @clementine to your python function.
-2) clementine will now track if and how that function gets called and will create a logfile
+1) clementine.py must exist in the same path like your python module
+2) simply add @clementine to your python function.
+3) clementine will now track if and how that function gets called and will create a logfile
 
 a terminal output could look like this:
 
